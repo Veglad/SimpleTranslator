@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleTranslator</string>
+    <string name="formRuToEng">Перевод с русского на английский</string>
+    <string name="fromEngToRus">Перевод с английского на русский</string>
+    <string name="translate">Перевести</string>
+    <string name="changeLanguages">Поменять языки</string>
+    <string name="inputText">Введите текст...</string>
+</resources>
